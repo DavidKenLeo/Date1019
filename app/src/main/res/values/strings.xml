@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Date1019</string>
+    <string name="app_article">這趟探訪行程，除了由賴孟傳擔任嚮導，還邀集了五位高山協作，還有地球公民基金會山林保育團隊的協助。
+        靜宜大學生態人文學系副教授楊國禎，2002年曾前往台灣杉森林進行調查，十三年後再度探訪，希望進一步將台灣杉解密。
+
+預計要走上五天，才能到達台灣杉森林，除了體力與耐力的考驗，還有許多未知的挑戰。
+        沿途通過各種危險地形，每踏一步都得小心翼翼，不能有點閃失，原本這是魯凱族人摘採愛玉子的運送之路，也是登山客前往屏東大鬼湖的路徑。
+    </string>
+    <string name="app_article2">
+    除了把陣列轉換為字串外，從另一方面來看，
+    我們也會有將 Array String 重新轉換成 Array 的需求。
+    以下的程式碼以簡單的 int array 為例，
+    說明 Array to String 和 String to Array 的轉換方式。
+    若使用的不是 int，則在程式中修改為所想要的 object type 即可。
+</string>
+    <string name="app_article3">
+然而當我們在使用 Array 時，
+
+</string>
+    <string name="app_article4">
+有時會有需求是將 Array 中的物件內容列印出來，
+    </string>
+    <!--<string-array name="city">-->
+        <!--　　        <item>總要背負五、六十公斤的收成</item>-->
+        <!--　　        <item>總要背負五、六十公斤的收成1</item>-->
+        <!--　　        <item>總要背負五、六十公斤的收成404</item>-->
+        <!--　　        <item>總要背負五、六十公斤的收成5050</item>-->
+        <!--　　        <item>總要背負五、六十公斤的收成7070</item>-->
+    <!--</string-array>-->
+</resources>
